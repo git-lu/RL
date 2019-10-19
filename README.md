@@ -1,6 +1,6 @@
 # Aprendizaje por Refuerzos
 
-Repo oficial de la materia optativa Aprendizaje por Refuerzos de la Diplomatura en Ciencias de Datos, Aprendizaje 
+Practico de la materia optativa Aprendizaje por Refuerzos de la Diplomatura en Ciencias de Datos, Aprendizaje 
 Automático y sus Aplicaciones.
 
 ## Instalación
